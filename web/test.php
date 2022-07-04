@@ -2,7 +2,7 @@
 <head>
     <title>Hi</title>
     <meta name="description">This is a test</meta>
-    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+    <meta name="viewport"></meta>
 </head>
 <body>
   Hello World! burger
